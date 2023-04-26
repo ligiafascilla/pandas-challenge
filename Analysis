@@ -1,1 +1,7 @@
-What these data frames show us is that 
+What these data frames show us is that the total school budget does not have much to do with the overall passing rate of their students for reading and math. 
+The math scores by grade do not have a correlation either, but there seems to be a relationship between the scores in each grade and the school. The scores for each school are either all in the 70s range or the 80s range for all the grades.
+The reading scores seem to be more consisten per school and more similar per grade for all schools.
+There seems to be a relation between school spending per capita and overall passing. The less the spending per capita, the higher the passing rates.
+Medium sized schools have the highest percentage of overall passing scores, while large schools have the lowest percentage of overall passing scores.
+
+A conclusion that can be drawn from this data is that the larger the school, the less the passing scores. Another conclusion is that all schools have higher passing reading percentages than passing math percentages.
